@@ -1,6 +1,6 @@
 # Welcome to the A₱⊙C⋀L¥⍴$∑///////////////
 
-![Core Source](cores.svg)
+![Core Source](../profile/cores.svg)
 
 Welcome to chaos, **redefined**.
 
