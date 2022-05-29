@@ -1,6 +1,4 @@
-# Welcome to the A₱⊙C⋀L¥⍴$∑///////////////
-
-![Core Source](https://sgp1.digitaloceanspaces.com/hentaiossg/cores.svg)
+![Core Source](https://sgp1.digitaloceanspaces.com/hentaiossg/cores-n1a.svg)
 
 Welcome to chaos, **redefined**.
 
