@@ -20,4 +20,4 @@ Now that we mentioned the important repositories, now go commit chaos, have you 
 
 ## Become part of the chaos
 
-Do you think that you made enough chaos to be eligible for the next round? If so, you can read the [Become Furry Repository](https://github.com/hentaiOS/maintainership-portals)
+Do you think that you made enough chaos to be eligible for the next round? If so, you can read the [Become Furry Technical Data](https://wiki.helluvaos.com/docs/technical-data/intro)
