@@ -1,4 +1,4 @@
-![Core Source](https://sgp1.digitaloceanspaces.com/hentaiossg/cores-n1a.svg)
+![Header](header.svg)
 
 Welcome to chaos, **redefined**.
 
