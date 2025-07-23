@@ -1,4 +1,4 @@
-![Header](header.svg)
+![Header](https://raw.githubusercontent.com/hentaiOS/.github/refs/heads/master/header.svg)
 
 Welcome to chaos, **redefined**.
 
